@@ -1,0 +1,77 @@
+*{
+	background-color: #F4C30E;
+}
+
+#logo{
+	font-family: 'Lobster', cursive;
+	display: inline;
+	font-size: 40px;
+}
+
+nav ul{
+	font-family: times;
+	display: block; 
+	text-align: center;
+	float:right;
+	margin-top: 0;
+
+}
+
+nav li{
+	float:left;
+	display: block; 
+	padding: 10px;
+}
+
+.fa-heart{
+	color:red;
+}
+
+.hearts{
+	padding: 0px;
+}
+
+
+
+h1{
+	font-family: 'Droid Sans', sans-serif;
+}
+
+span{
+	color:red;
+}
+
+#whychoose li{
+	font-family: 'Droid Sans', sans-serif;
+}
+
+#whychoose a{
+	text-decoration: none;
+	color:black;
+	margin:0 0 10px 0;
+}
+
+#whychoose li{
+	padding-bottom: 10px;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+
+#bighead{
+	float:right;
+	position: relative;
+	width: 400px;
+	height: 100px;
+    top:-350px;
+   }
+
+ #smallhead{
+ 	float:right;
+ 	position: relative;
+ 	margin-bottom: 20px;
+ 	clear:both;
+ 	top:-190px;
+ 	padding-left: 10px;
+
+
+ }  
